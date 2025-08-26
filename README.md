@@ -98,7 +98,7 @@ Or add it to you SPM by simply modifying the `Package.swift` file:
 
 ```swift
 dependencies: [
-  .package(url: "`https://github.com/kasrababaei/locked-weak-reference`", from: "1.0.0")
+  .package(url: "https://github.com/kasrababaei/locked-weak-reference", from: "1.0.0")
 ]
 ```
 
